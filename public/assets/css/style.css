@@ -17,3 +17,19 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+
+.top {
+  background-color: bisque;
+}
+
+.middle {
+  background-color: rgb(202, 99, 2);
+}
+
+.bottom {
+  background-color: bisque;
+}
+
+.mid-bot {
+  background-color: green;
+}
